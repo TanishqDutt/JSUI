@@ -1,3 +1,9 @@
+/*
+
+Thanks for using JSUI v1.0 by Coder
+
+*/
+
 class JSUI {
 
     constructor(win) {
