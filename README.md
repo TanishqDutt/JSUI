@@ -3,5 +3,5 @@
 
 # Documentation:
 
-(View Documentation of JSUI)[https://github.com/TanishqDutt/JSUI/blob/main/documentation.md]
+[View Documentation of JSUI](https://github.com/TanishqDutt/JSUI/blob/main/documentation.md)
 
