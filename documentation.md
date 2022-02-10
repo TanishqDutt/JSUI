@@ -142,13 +142,13 @@ jsui.insert(button).to(main)
 ### -> Output:
 <img src="./Assets/screen2.png"> 
 
-### After you click 'click me' this alert box apper
+### After you click 'click me' this alert box appear
 
 <hr>
 <hr>
 
 ## `JSUI.Heading()`
-### `JSUI.Button()` is used to create headings.
+### `JSUI.Heading()` is used to create headings.
 
 ### -> Syntax and Example:
 ```js
